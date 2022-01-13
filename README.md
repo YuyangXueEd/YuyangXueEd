@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Metrics](github-metrics.svg)]()
+[![Metrics](github-metrics.svg)](https://github.com/YuyangXueEd/)
 
 <!--
 **YuyangXueEd/YuyangXueEd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
