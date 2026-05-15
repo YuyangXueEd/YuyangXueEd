@@ -38,12 +38,15 @@ I'm a postdoctoral researcher at the [University of Edinburgh](https://www.ed.ac
 
 <table>
   <tr>
+    <td><a href="https://github.com/vios-s/CAUST"><img src="https://socialify.git.ci/vios-s/CAUST/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="CAUST — AUST in camel-ai" width="100%" /></a></td>
     <td><a href="https://github.com/vios-s/CRCE"><img src="https://socialify.git.ci/vios-s/CRCE/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="CRCE — BMVC 2025" width="100%" /></a></td>
-    <td><a href="https://github.com/vios-s/Erase-to-Enhance-MRI-Recon-Unlearning"><img src="https://socialify.git.ci/vios-s/Erase-to-Enhance-MRI-Recon-Unlearning/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Erase-to-Enhance — Machine Unlearning on MRI" width="100%" /></a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/vios-s/Erase-to-Enhance-MRI-Recon-Unlearning"><img src="https://socialify.git.ci/vios-s/Erase-to-Enhance-MRI-Recon-Unlearning/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Erase-to-Enhance — Machine Unlearning on MRI" width="100%" /></a></td>
     <td><a href="https://github.com/vios-s/CMRxRECON_Challenge_EDIPO"><img src="https://socialify.git.ci/vios-s/CMRxRECON_Challenge_EDIPO/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="CMRxRECON — MICCAI" width="100%" /></a></td>
-    <td><a href="https://github.com/vios-s/Inference_Denoising_MRI_Recon"><img src="https://socialify.git.ci/vios-s/Inference_Denoising_MRI_Recon/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Inference Stage Denoising for MRI Reconstruction" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/vios-s/Inference_Denoising_MRI_Recon"><img src="https://socialify.git.ci/vios-s/Inference_Denoising_MRI_Recon/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Inference Stage Denoising for MRI Reconstruction" width="50%" /></a></td>
   </tr>
 </table>
 
@@ -52,15 +55,11 @@ I'm a postdoctoral researcher at the [University of Edinburgh](https://www.ed.ac
 <table>
   <tr>
     <td><a href="https://github.com/YuyangXueEd/Linnet"><img src="https://socialify.git.ci/YuyangXueEd/Linnet/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Linnet" width="100%" /></a></td>
-    <td><a href="https://github.com/YuyangXueEd/MuLTIHydra"><img src="https://socialify.git.ci/YuyangXueEd/MuLTIHydra/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="MuLTIHydra" width="100%" /></a></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/vios-s/kubmonitor_cli"><img src="https://socialify.git.ci/vios-s/kubmonitor_cli/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="kubmonitor_cli" width="100%" /></a></td>
-    <td><a href="https://github.com/vios-s/VioScope"><img src="https://socialify.git.ci/vios-s/VioScope/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="VioScope" width="100%" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/vios-s/vios.science"><img src="https://socialify.git.ci/vios-s/vios.science/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="vios.science — group website" width="100%" /></a></td>
     <td><a href="https://github.com/vios-s/Vios-Research-Skills"><img src="https://socialify.git.ci/vios-s/Vios-Research-Skills/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Vios-Research-Skills" width="100%" /></a></td>
+    <td><a href="https://github.com/vios-s/vios.science"><img src="https://socialify.git.ci/vios-s/vios.science/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="vios.science — group website" width="100%" /></a></td>
   </tr>
 </table>
 
