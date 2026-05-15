@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Yuyang%20Xue%20%C2%B7%20%E8%96%9B%E5%AE%87%E9%98%B3&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PostDoc%20%40%20The%20University%20of%20Edinburgh&descSize=18&descAlignY=58" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Yuyang%20Xue%20%C2%B7%20%E8%96%9B%E9%9B%A8%E9%98%B3&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PostDoc%20%40%20The%20University%20of%20Edinburgh&descSize=18&descAlignY=58" alt="banner" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 <!-- TYPING TAGLINE -->
 <div align="center">
   <a href="https://github.com/YuyangXueEd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=620&lines=PostDoc+working+on+Agents;Causality+%C3%97+Medical+Imaging+%C3%97+Diffusion;Research+%C3%97+Engineering+%C3%97+Indie+Games" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=620&lines=PostDoc+working+on+Agents;EducAgent+%E2%80%94+Education+%C3%97+AI+%C3%97+Causality;Research+%C3%97+Engineering+%C3%97+Indie+Games" alt="typing" />
   </a>
 </div>
 
@@ -38,12 +38,12 @@ I'm a postdoctoral researcher at the [University of Edinburgh](https://www.ed.ac
 
 <table>
   <tr>
-    <td><a href="https://github.com/vios-s/CRCE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vios-s&repo=CRCE&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="CRCE — BMVC 2025" /></a></td>
-    <td><a href="https://github.com/vios-s/gmt-leaf-ins-seg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vios-s&repo=gmt-leaf-ins-seg&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GMT Leaf — WACV 2025" /></a></td>
+    <td><a href="https://github.com/vios-s/CRCE"><img src="https://socialify.git.ci/vios-s/CRCE/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="CRCE — BMVC 2025" width="100%" /></a></td>
+    <td><a href="https://github.com/vios-s/gmt-leaf-ins-seg"><img src="https://socialify.git.ci/vios-s/gmt-leaf-ins-seg/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="GMT Leaf — WACV 2025" width="100%" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/vios-s/CMRxRECON_Challenge_EDIPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vios-s&repo=CMRxRECON_Challenge_EDIPO&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="CMRxRECON — MICCAI" /></a></td>
-    <td><a href="https://github.com/CHAI-UK/DOTS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CHAI-UK&repo=DOTS&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="DOTS — diffusion temporal structure" /></a></td>
+    <td><a href="https://github.com/vios-s/CMRxRECON_Challenge_EDIPO"><img src="https://socialify.git.ci/vios-s/CMRxRECON_Challenge_EDIPO/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="CMRxRECON — MICCAI" width="100%" /></a></td>
+    <td><a href="https://github.com/CHAI-UK/DOTS"><img src="https://socialify.git.ci/CHAI-UK/DOTS/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="DOTS — diffusion temporal structure" width="100%" /></a></td>
   </tr>
 </table>
 
@@ -51,12 +51,12 @@ I'm a postdoctoral researcher at the [University of Edinburgh](https://www.ed.ac
 
 <table>
   <tr>
-    <td><a href="https://github.com/YuyangXueEd/Linnet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuyangXueEd&repo=Linnet&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Linnet" /></a></td>
-    <td><a href="https://github.com/YuyangXueEd/MuLTIHydra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YuyangXueEd&repo=MuLTIHydra&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="MuLTIHydra" /></a></td>
+    <td><a href="https://github.com/YuyangXueEd/Linnet"><img src="https://socialify.git.ci/YuyangXueEd/Linnet/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Linnet" width="100%" /></a></td>
+    <td><a href="https://github.com/YuyangXueEd/MuLTIHydra"><img src="https://socialify.git.ci/YuyangXueEd/MuLTIHydra/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="MuLTIHydra" width="100%" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/vios-s/kubmonitor_cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vios-s&repo=kubmonitor_cli&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="kubmonitor_cli" /></a></td>
-    <td><a href="https://github.com/vios-s/VioScope"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vios-s&repo=VioScope&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="VioScope" /></a></td>
+    <td><a href="https://github.com/vios-s/kubmonitor_cli"><img src="https://socialify.git.ci/vios-s/kubmonitor_cli/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="kubmonitor_cli" width="100%" /></a></td>
+    <td><a href="https://github.com/vios-s/VioScope"><img src="https://socialify.git.ci/vios-s/VioScope/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="VioScope" width="100%" /></a></td>
   </tr>
 </table>
 
@@ -66,19 +66,12 @@ When not in the lab, I make small 2D games with Godot under [Guesswhat-Studio](h
 
 <table>
   <tr>
-    <td><a href="https://github.com/Guesswhat-Studio/Opsis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Guesswhat-Studio&repo=Opsis&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Opsis" /></a></td>
-    <td><a href="https://github.com/Guesswhat-Studio/Calabash"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Guesswhat-Studio&repo=Calabash&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Calabash" /></a></td>
+    <td><a href="https://github.com/Guesswhat-Studio/Opsis"><img src="https://socialify.git.ci/Guesswhat-Studio/Opsis/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Opsis" width="100%" /></a></td>
+    <td><a href="https://github.com/Guesswhat-Studio/Calabash"><img src="https://socialify.git.ci/Guesswhat-Studio/Calabash/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Calabash" width="100%" /></a></td>
   </tr>
 </table>
 
 ## 📊 Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=YuyangXueEd&theme=tokyonight&count_private=true&show_icons=true&hide_border=true&bg_color=1a1b27&include_all_commits=true" alt="github stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuyangXueEd&theme=tokyonight&layout=compact&hide_border=true&bg_color=1a1b27&langs_count=8" alt="top languages" /></td>
-  </tr>
-</table>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YuyangXueEd&theme=tokyonight&hide_border=true&background=1a1b27" alt="streak" />
@@ -105,12 +98,6 @@ When not in the lab, I make small 2D games with Godot under [Guesswhat-Studio](h
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YuyangXueEd&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="trophies" />
-</div>
-
-## ⏱ Wakatime
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yuyang_Xue_Ed&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="wakatime" />
 </div>
 
 ---
