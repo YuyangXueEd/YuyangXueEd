@@ -58,6 +58,10 @@ I'm a postdoctoral researcher at the [University of Edinburgh](https://www.ed.ac
     <td><a href="https://github.com/vios-s/kubmonitor_cli"><img src="https://socialify.git.ci/vios-s/kubmonitor_cli/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="kubmonitor_cli" width="100%" /></a></td>
     <td><a href="https://github.com/vios-s/VioScope"><img src="https://socialify.git.ci/vios-s/VioScope/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="VioScope" width="100%" /></a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/vios-s/vios.science"><img src="https://socialify.git.ci/vios-s/vios.science/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="vios.science — group website" width="100%" /></a></td>
+    <td><a href="https://github.com/vios-s/Vios-Research-Skills"><img src="https://socialify.git.ci/vios-s/Vios-Research-Skills/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Vios-Research-Skills" width="100%" /></a></td>
+  </tr>
 </table>
 
 ## 🎮 Off-the-clock
