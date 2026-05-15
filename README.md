@@ -26,7 +26,7 @@ I'm a postdoctoral researcher at the [University of Edinburgh](https://www.ed.ac
 
 - 🤖 Building **agent systems for causal reasoning & education** ([EducAgent](https://github.com/CHAI-UK/EducAgent), [CAUST](https://github.com/vios-s/CAUST)) — recent submissions to top ML venues
 - 📰 Maintaining **[Linnet](https://github.com/YuyangXueEd/Linnet)** — a personal AI morning briefing from arXiv / HN / GitHub
-- 🌱 Co-developing **[PhenoAssistant](https://github.com/vios-s/PhenoAssistant)** — agent-assisted plant phenotyping at VIOS
+- 🧬 Working on **machine unlearning for medical imaging** — see featured work below
 
 ## 🛠 Tech Stack
 
@@ -39,11 +39,11 @@ I'm a postdoctoral researcher at the [University of Edinburgh](https://www.ed.ac
 <table>
   <tr>
     <td><a href="https://github.com/vios-s/CRCE"><img src="https://socialify.git.ci/vios-s/CRCE/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="CRCE — BMVC 2025" width="100%" /></a></td>
-    <td><a href="https://github.com/vios-s/gmt-leaf-ins-seg"><img src="https://socialify.git.ci/vios-s/gmt-leaf-ins-seg/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="GMT Leaf — WACV 2025" width="100%" /></a></td>
+    <td><a href="https://github.com/vios-s/Erase-to-Enhance-MRI-Recon-Unlearning"><img src="https://socialify.git.ci/vios-s/Erase-to-Enhance-MRI-Recon-Unlearning/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Erase-to-Enhance — Machine Unlearning on MRI" width="100%" /></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/vios-s/CMRxRECON_Challenge_EDIPO"><img src="https://socialify.git.ci/vios-s/CMRxRECON_Challenge_EDIPO/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="CMRxRECON — MICCAI" width="100%" /></a></td>
-    <td><a href="https://github.com/CHAI-UK/DOTS"><img src="https://socialify.git.ci/CHAI-UK/DOTS/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="DOTS — diffusion temporal structure" width="100%" /></a></td>
+    <td><a href="https://github.com/vios-s/Inference_Denoising_MRI_Recon"><img src="https://socialify.git.ci/vios-s/Inference_Denoising_MRI_Recon/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Inference Stage Denoising for MRI Reconstruction" width="100%" /></a></td>
   </tr>
 </table>
 
